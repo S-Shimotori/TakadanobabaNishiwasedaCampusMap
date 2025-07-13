@@ -2,7 +2,9 @@
 
 ## Google マイマップ
 
-TBW
+https://www.google.com/maps/d/viewer?mid=1Nm9jqZhog8PCBP4OHkTH3-rWcpY5lD8
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Nm9jqZhog8PCBP4OHkTH3-rWcpY5lD8&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 参考文献
 
