@@ -20,6 +20,7 @@ https://www.google.com/maps/d/viewer?mid=1Nm9jqZhog8PCBP4OHkTH3-rWcpY5lD8
 * [戸山射撃場跡 \| 一般社団法人新宿観光振興協会](https://www.kanko-shinjuku.jp/spot/-/article_491.html)
 * [早稲田キャンパス計画の変遷  &#8211;  早稲田大学](https://www.waseda.jp/top/news/99281)
 * [検索結果詳細 \| 温故知しん！じゅく散歩 　新宿文化観光資源案内サイト](https://bunkakanko-annai.city.shinjuku.lg.jp/shosai3/?id=D022)（戸山射撃場跡）
+* [検索結果詳細 \| 温故知しん！じゅく散歩 　新宿文化観光資源案内サイト](https://bunkakanko-annai.city.shinjuku.lg.jp/shosai3/?id=G122)（明治天皇射的砲術天覧所阯碑）
 * [〜第15回〜 陸軍射撃場―西早稲田（旧大久保）キャンパス  &#8211;  早稲田ウィークリー](https://www.waseda.jp/inst/weekly/column/2011/12/08/56977/)
 
 ### 高田馬場&西早稲田&大久保エリア広域
